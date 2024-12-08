@@ -187,7 +187,7 @@ verify invalid password : False
         "error": "User already exists"
     }
     ```
-2. User Login
+- User Login
 
     URL: http://127.0.0.1:5000/login
     Method: POST
